@@ -1,0 +1,17 @@
+C:\Work\Personal\Development\WeatherLink\WeatherLink\bin\Debug\WeatherLink.exe.config
+C:\Work\Personal\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.frmMain.resources
+C:\Work\Personal\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.Properties.Resources.resources
+C:\Work\Personal\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.csproj.GenerateResource.Cache
+C:\Work\Personal\Development\WeatherLink\WeatherLink\bin\Debug\WeatherLink.exe
+C:\Work\Personal\Development\WeatherLink\WeatherLink\bin\Debug\WeatherLink.pdb
+C:\Work\Personal\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.exe
+C:\Work\Personal\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.pdb
+C:\Development\WeatherLink\WeatherLink\bin\Debug\WeatherLink.exe.config
+C:\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.exe
+C:\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.pdb
+C:\Development\WeatherLink\WeatherLink\bin\Debug\WeatherLink.exe
+C:\Development\WeatherLink\WeatherLink\bin\Debug\WeatherLink.pdb
+C:\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.frmMain.resources
+C:\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.Properties.Resources.resources
+C:\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.csproj.GenerateResource.Cache
+C:\Work\Personal\Development\WeatherLink\WeatherLink\obj\Debug\WeatherLink.csprojResolveAssemblyReference.cache
